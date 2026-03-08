@@ -37,3 +37,26 @@ These addresses have been reported to:
 
 *Last updated: March 8, 2026*
 *Researcher: @artablok*
+
+## 📊 Latest Reports
+
+| Date | Token | Type | Status | Issue |
+|------|-------|------|--------|-------|
+| 2026-03-09 | Multiple USDT | Fake | Open | [#1](../../issues/1) |
+| 2026-03-09 | SOL | Fake | Open | [#2](../../issues/2) |
+| 2026-03-09 | Detection System | Proposal | Open | [#3](../../issues/3) |
+
+## 🎯 Statistics
+- **Fake tokens identified:** 5
+- **Networks affected:** Solana
+- **Active issues:** 3
+- **Potential victims protected:** Ongoing
+
+## 🤝 How to Contribute
+Found a scam token? [Open an Issue](../../issues/new) with:
+1. Token address
+2. Network (ETH, BNB, SOL, etc.)
+3. Evidence of fraudulent activity
+
+---
+*This repository is actively monitored by the community.*
