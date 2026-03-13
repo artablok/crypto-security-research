@@ -1,10 +1,17 @@
 import json
 import datetime
+import os
 
 file_path = "database/solana.json"
 
-with open(file_path, "r") as f:
-    data = json.load(f)
+if not os.path.exists(file_path):
+    data = {
+        "network": "Solana",
+        "scam_tokens": []
+    }
+else:
+    with open(file_path, "r") as f:
+        data = json.load(f)
 
 new_token = {
     "name": "Example Scam Token",
@@ -21,3 +28,5 @@ data["scam_tokens"].append(new_token)
 
 with open(file_path, "w") as f:
     json.dump(data, f, indent=2)
+
+print("Database updated successfully")
