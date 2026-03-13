@@ -1,0 +1,50 @@
+name: Report Scam Token
+description: Report a suspicious token or dust attack
+title: "[SCAM REPORT]: "
+labels: ["scam-report"]
+
+body:
+
+- type: input
+  id: token_name
+  attributes:
+    label: Token Name
+    description: Name of the suspicious token
+  validations:
+    required: true
+
+- type: input
+  id: symbol
+  attributes:
+    label: Token Symbol
+  validations:
+    required: true
+
+- type: input
+  id: network
+  attributes:
+    label: Network
+    placeholder: Solana / Ethereum / BNB
+
+- type: input
+  id: address
+  attributes:
+    label: Contract Address
+  validations:
+    required: true
+
+- type: dropdown
+  id: scam_type
+  attributes:
+    label: Scam Type
+    options:
+      - Dust Attack
+      - Impersonation
+      - Phishing
+      - Fake Token
+
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: Explain why this token is suspicious
