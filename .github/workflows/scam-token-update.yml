@@ -1,0 +1,26 @@
+name: Security Research Auto Update
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update timestamp
+        run: |
+          echo "Last research update: $(date)" >> research-log.txt
+
+      - name: Commit update
+        run: |
+          git config --global user.name "security-bot"
+          git config --global user.email "bot@github.com"
+          git add research-log.txt
+          git commit -m "auto: security research update"
+          git push
