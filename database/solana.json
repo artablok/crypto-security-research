@@ -1,0 +1,14 @@
+{
+  "network": "Solana",
+  "scam_tokens": [
+    {
+      "name": "Fake USDT",
+      "symbol": "USDT",
+      "address": "DMfhf8LFSXTBTwpppTMDojXgg3kcJznUmNjkta9cM1Qk",
+      "type": "Dust Attack",
+      "status": "Active",
+      "reported_by": "crypto-security-research",
+      "description": "Token impersonates USDT and appears in wallets via dust attack."
+    }
+  ]
+}
