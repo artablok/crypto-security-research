@@ -61,3 +61,12 @@ Found a scam token? [Open an Issue](../../issues/new) with:
 
 ---
 *This repository is actively monitored by the community.*
+## 🚨 Last Detected Scam Tokens
+
+Latest tokens detected impersonating major assets.
+
+| Token | Address | Network | Type | Detected |
+|------|------|------|------|------|
+| Fake USDT | DMfhf8LFSXTBTwpppTMDojXgg3kcJznUmNjkta9cM1Qk | Solana | Dust Attack | 2026 |
+| Fake USDT | 9XUMSDaKnvV2FT56Wj87JLJ29x3cr6MfW6aKxZx5d9ff | Solana | Dust Attack | 2026 |
+| Fake SOL | Ag7XCgPqzrqeE0kaNjA4UXfw9buSwBQooY3uh46vfuFe | Solana | Dust Attack | 2026 |
