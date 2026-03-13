@@ -70,3 +70,14 @@ Latest tokens detected impersonating major assets.
 | Fake USDT | DMfhf8LFSXTBTwpppTMDojXgg3kcJznUmNjkta9cM1Qk | Solana | Dust Attack | 2026 |
 | Fake USDT | 9XUMSDaKnvV2FT56Wj87JLJ29x3cr6MfW6aKxZx5d9ff | Solana | Dust Attack | 2026 |
 | Fake SOL | Ag7XCgPqzrqeE0kaNjA4UXfw9buSwBQooY3uh46vfuFe | Solana | Dust Attack | 2026 |
+## Public Scam Contract Database
+
+This repository maintains a public database of malicious tokens and dust attack contracts detected across multiple blockchains.
+
+Database:
+
+/database/solana.json
+
+Raw API:
+
+https://raw.githubusercontent.com/artablok/crypto-security-research/main/database/solana.json
