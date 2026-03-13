@@ -1,0 +1,27 @@
+name: Update README Activity
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README timestamp
+        run: |
+          echo "" >> README.md
+          echo "Last security research update: $(date)" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "security-bot"
+          git config --global user.email "bot@github.com"
+          git add README.md
+          git commit -m "auto: update security research activity"
+          git push
