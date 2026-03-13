@@ -13,7 +13,7 @@ Independent security research on crypto scams, fake tokens and dust attacks. Tra
 | Fake USDT | `DNfnFTWwEwQW4R8F9Pttfp74WJnFrEHsMNQYWRbyE6CE` | Dust Attack | ⚠️ Active |
 | Fake USDT | `BGtpF37rrubQoE5NnWU74KQmDf2ZvNAnafVkgxKaeGRX` | Dust Attack | ⚠️ Active |
 | Fake SOL | `Ag7XCgPqzrqEo7kaNjA4UXfw9buSwBQooy3uh46vfuFe` | Dust Attack | ⚠️ Active |
-
+Fake USDC | 8WHoHv4kpLnwTnURngecmNpjoK9QAw2krcshoknNx3xf | Impersonation | Active
 ## 🛡️ How to Protect Yourself
 
 1. **DO NOT** interact with unknown tokens
@@ -57,6 +57,7 @@ Found a scam token? [Open an Issue](../../issues/new) with:
 1. Token address
 2. Network (ETH, BNB, SOL, etc.)
 3. Evidence of fraudulent activity
+
 
 ---
 *This repository is actively monitored by the community.*
