@@ -1,0 +1,33 @@
+name: Scam Database Auto Update
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python scripts/update_database.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "security-bot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "auto: update scam database" || echo "No changes"
+          git push
