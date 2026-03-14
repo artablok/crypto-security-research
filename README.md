@@ -83,3 +83,5 @@ Raw API:
 https://raw.githubusercontent.com/artablok/crypto-security-research/main/database/solana.json
 
 Last security research update: Fri Mar 13 06:50:10 UTC 2026
+
+Last security research update: Sat Mar 14 06:41:46 UTC 2026
