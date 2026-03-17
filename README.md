@@ -1,4 +1,20 @@
-# 🔒 Crypto Security Research
+# 🛡 Arta Blockchain Security Lab
+
+![Security](https://img.shields.io/badge/Threat%20Intelligence-Active-red)
+![Security Research](https://img.shields.io/badge/Crypto-Security%20Research-blue)
+![Status](https://img.shields.io/badge/Database-Scam%20Tokens-green)
+
+Independent blockchain security research.
+
+Tracking:
+
+• scam tokens  
+• dust attacks  
+• fake stablecoins  
+• malicious contracts  
+
+Security Dashboard  
+https://artablok.github.io/crypto-security-research/# 🔒 Crypto Security Research
 
 Independent security research on crypto scams, fake tokens and dust attacks. Tracking malicious addresses to protect the community.
 
