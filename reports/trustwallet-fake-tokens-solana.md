@@ -40,3 +40,16 @@ Wallet providers should:
 ## Database
 
 https://raw.githubusercontent.com/artablok/crypto-security-research/main/database/solana.json
+### New Scam Token Detected
+
+Name: Fake USDT  
+Network: Solana  
+
+Address:
+CSMCbMvdW8Gb23dmUduFUCXMg9wPxrDkb5kzDV4YxcZY
+
+Type:
+Dust Attack
+
+Description:
+Token impersonates USDT and appears in wallets via dust attack.
