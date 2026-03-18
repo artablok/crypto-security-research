@@ -60,9 +60,8 @@
       "first_detected": "2026-03-17",
       "reported_by": "crypto-security-research",
       "description": "Automatically detected scam token example."
-    }
-  ]
-}{
+    },
+{
   "name": "Fake USDT",
   "symbol": "USDT",
   "address": "CSMCbMvdW8Gb23dmUduFUCXMg9wPxrDkb5kzDV4YxcZY",
@@ -71,3 +70,5 @@
   "first_detected": "2026",
   "reported_by": "Arta Security Lab",
   "description": "Token impersonates USDT on Solana and appears in wallets via dust attack."
+}
+]
