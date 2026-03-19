@@ -1,106 +1,107 @@
-{
-  "network": "Solana",
-  "scam_tokens": [
-    {
-      "name": "Fake USDT",
-      "symbol": "USDT",
-      "address": "DMfhf8LFSXTBTwpppTMDojXgg3kcJznUmNjkta9cM1Qk",
-      "type": "Dust Attack",
-      "status": "Active",
-      "first_detected": "2026",
-      "reported_by": "crypto-security-research",
-      "description": "Token impersonates USDT and appears in wallets via dust attack."
-    },
-    {
-      "name": "Example Scam Token",
-      "symbol": "SCAM",
-      "address": "ExampleAddress123",
-      "type": "Impersonation",
-      "status": "Active",
-      "first_detected": "2026-03-13",
-      "reported_by": "crypto-security-research",
-      "description": "Automatically detected scam token example."
-    },
-    {
-      "name": "Example Scam Token",
-      "symbol": "SCAM",
-      "address": "ExampleAddress123",
-      "type": "Impersonation",
-      "status": "Active",
-      "first_detected": "2026-03-14",
-      "reported_by": "crypto-security-research",
-      "description": "Automatically detected scam token example."
-    },
-    {
-      "name": "Example Scam Token",
-      "symbol": "SCAM",
-      "address": "ExampleAddress123",
-      "type": "Impersonation",
-      "status": "Active",
-      "first_detected": "2026-03-15",
-      "reported_by": "crypto-security-research",
-      "description": "Automatically detected scam token example."
-    },
-    {
-      "name": "Example Scam Token",
-      "symbol": "SCAM",
-      "address": "ExampleAddress123",
-      "type": "Impersonation",
-      "status": "Active",
-      "first_detected": "2026-03-16",
-      "reported_by": "crypto-security-research",
-      "description": "Automatically detected scam token example."
-    },
-    {
-      "name": "Example Scam Token",
-      "symbol": "SCAM",
-      "address": "ExampleAddress123",
-      "type": "Impersonation",
-      "status": "Active",
-      "first_detected": "2026-03-17",
-      "reported_by": "crypto-security-research",
-      "description": "Automatically detected scam token example."
-    },
-{
-  "name": "Fake USDT",
-  "symbol": "USDT",
-  "address": "CSMCbMvdW8Gb23dmUduFUCXMg9wPxrDkb5kzDV4YxcZY",
-  "type": "Dust Attack",
-  "status": "Active",
-  "first_detected": "2026",
-  "reported_by": "Arta Security Lab",
-  "description": "Token impersonates USDT on Solana and appears in wallets via dust attack."
-}
-]
-},
-{
-  "name": "Fake USDC.A",
-  "symbol": "USDC.A",
-  "address": "3ijco7rKKeuyDbLTMYBFKvJm15811iLi4diUYjbXJMAt",
-  "type": "Impersonation",
-  "status": "Active",
-  "first_detected": "2026",
-  "reported_by": "Arta Security Lab",
-  "description": "Fake USDC token detected on Solana, likely used in scam or phishing."
-},
-{
-  "name": "Fake USDT",
-  "symbol": "USDT",
-  "address": "Vr1UbnDPTGT4AxmW6tVRQwSnMwzT9vo82pjmcCnuqtz",
-  "type": "Impersonation",
-  "status": "Active",
-  "first_detected": "2026",
-  "reported_by": "Arta Security Lab",
-  "description": "Fake USDT token detected on Solana."
-},
-{
-  "name": "Fake EURC",
-  "symbol": "EUR.C",
-  "address": "7koyaGqHPpdEAxWQdFH9GHVW8jC4zwXgA3rFcrM1wkBK",
-  "type": "Impersonation",
-  "status": "Active",
-  "first_detected": "2026",
-  "reported_by": "Arta Security Lab",
-  "description": "Fake EURC token detected on Solana."
-}
+[
+  {
+    "network": "Solana",
+    "scam_tokens": [
+      {
+        "name": "Fake USDT",
+        "symbol": "USDT",
+        "address": "DMfhf8LFSXTBTwpppTMDojXgg3kcJznUmNjkta9cM1Qk",
+        "type": "Dust Attack",
+        "status": "Active",
+        "first_detected": "2026",
+        "reported_by": "crypto-security-research",
+        "description": "Token impersonates USDT and appears in wallets via dust attack."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-13",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-14",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-15",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-16",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-17",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Fake USDT",
+        "symbol": "USDT",
+        "address": "CSMCbMvdW8Gb23dmUduFUCXMg9wPxrDkb5kzDV4YxcZY",
+        "type": "Dust Attack",
+        "status": "Active",
+        "first_detected": "2026",
+        "reported_by": "Arta Security Lab",
+        "description": "Token impersonates USDT on Solana and appears in wallets via dust attack."
+      },
+      {
+        "name": "Fake USDC.A",
+        "symbol": "USDC.A",
+        "address": "3ijco7rKKeuyDbLTMYBFKvJm15811iLi4diUYjbXJMAt",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026",
+        "reported_by": "Arta Security Lab",
+        "description": "Fake USDC token detected on Solana, likely used in scam or phishing."
+      },
+      {
+        "name": "Fake USDT",
+        "symbol": "USDT",
+        "address": "Vr1UbnDPTGT4AxmW6tVRQwSnMwzT9vo82pjmcCnuqtz",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026",
+        "reported_by": "Arta Security Lab",
+        "description": "Fake USDT token detected on Solana."
+      },
+      {
+        "name": "Fake EURC",
+        "symbol": "EURC",
+        "address": "7koyaGqHPpdEAxWQdFH9GHVW8jC4zwXgA3rFcrM1wkBK",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026",
+        "reported_by": "Arta Security Lab",
+        "description": "Fake EURC token detected on Solana."
+      }
+    ]
+  }
 ]
