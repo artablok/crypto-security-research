@@ -1,17 +1,25 @@
-name: Update README Activity
+name: Arta Security Auto Update
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  security-update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run auto alerts
+        run: python scripts/auto_alert.py
 
       - name: Update README timestamp
         run: |
@@ -22,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "security-bot"
           git config --global user.email "bot@github.com"
-          git add README.md
-          git commit -m "auto: update security research activity"
+          git add .
+          git commit -m "auto: security update + alerts" || echo "no changes"
           git push
