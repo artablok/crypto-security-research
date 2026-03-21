@@ -1,3 +1,13 @@
+# 🛡 Arta Security Lab
+
+![Security](https://img.shields.io/badge/Threat%20Intelligence-Active-red)
+![Crypto](https://img.shields.io/badge/Crypto-Security-blue)
+![Database](https://img.shields.io/badge/Scam%20Database-Live-green)
+
+Arta Security Lab provides real-time monitoring of scam tokens and malicious activity across blockchain networks.
+
+---
+
 ## 🔌 Integration (Security API)
 
 Use our live scam token database:
@@ -8,13 +18,7 @@ Use cases:
 - Wallet protection
 - Scam detection
 - Token risk scoring
-- Explorer warnings# 🛡 Arta Security Lab
-
-![Security](https://img.shields.io/badge/Threat%20Intelligence-Active-red)
-![Crypto](https://img.shields.io/badge/Crypto-Security-blue)
-![Database](https://img.shields.io/badge/Scam%20Database-Live-green)
-
-Arta Security Lab provides real-time monitoring of scam tokens and malicious activity across blockchain networks.
+- Explorer warnings
 
 ---
 
