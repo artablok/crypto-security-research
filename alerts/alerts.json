@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ARTA-2026-001",
+    "title": "Fake USDT Token Detected",
+    "description": "Impersonation token targeting Solana users",
+    "risk_level": "HIGH",
+    "chain": "solana",
+    "address": "FAKE_ADDRESS",
+    "date": "2026-03-21",
+    "status": "active"
+  }
+]
