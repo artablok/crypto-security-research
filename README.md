@@ -1,4 +1,9 @@
-# 🛡 Arta Security Lab
+# 🛡️ Arta Security Lab
+
+Independent blockchain threat intelligence provider
+
+🔗 API:
+https://raw.githubusercontent.com/artablok/crypto-security-research/main/api/index.json# 🛡 Arta Security Lab
 
 ![Security](https://img.shields.io/badge/Threat%20Intelligence-Active-red)
 ![Crypto](https://img.shields.io/badge/Crypto-Security-blue)
