@@ -111,6 +111,16 @@
         "first_detected": "2026-03-21",
         "reported_by": "crypto-security-research",
         "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Fake USDT",
+        "symbol": "USDT",
+        "address": "Vr1UbnDPTGT4AxmW6tVRQwSnMwzT9vo82pjmcCnuqtz",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-21",
+        "reported_by": "Arta Security Lab",
+        "description": "Fake USDT token detected on Solana network. Likely used for phishing or scam activity."
       }
     ]
   }
