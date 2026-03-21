@@ -4,11 +4,14 @@ import os
 
 file_path = "database/solana.json"
 
+# если файла нет — создаём правильную структуру
 if not os.path.exists(file_path):
-    data = {
-        "network": "Solana",
-        "scam_tokens": []
-    }
+    data = [
+        {
+            "network": "Solana",
+            "scam_tokens": []
+        }
+    ]
 else:
     with open(file_path, "r") as f:
         data = json.load(f)
@@ -24,7 +27,8 @@ new_token = {
     "description": "Automatically detected scam token example."
 }
 
-data["scam_tokens"].append(new_token)
+# ВАЖНО — теперь работаем через data[0]
+data[0]["scam_tokens"].append(new_token)
 
 with open(file_path, "w") as f:
     json.dump(data, f, indent=2)
