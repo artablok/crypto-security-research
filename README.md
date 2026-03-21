@@ -1,4 +1,49 @@
-# 🛡 Arta Blockchain Security Lab
+---
+
+## 🚨 Live Security Feed
+
+Arta Security Lab provides real-time monitoring of scam tokens and malicious activity across blockchain networks.
+
+🔴 Live Dashboard:
+https://artablok.github.io/arta-security-dashboard/
+
+📊 Active Monitoring:
+Solana scam tokens (dust attacks, impersonation)
+
+---
+
+## 📡 Structured Data (API Ready)
+
+All detected scam tokens are stored in structured JSON format:
+
+/database/solana.json
+
+Raw API:
+https://raw.githubusercontent.com/artablok/crypto-security-research/main/database/solana.json
+
+This dataset is designed for integration with wallets, explorers, and security tools.
+
+---
+
+## 🛡️ Security Intelligence
+
+Our system continuously tracks:
+
+- Fake USDT / USDC / EURC tokens
+- Dust attack patterns
+- Token impersonation campaigns
+- Phishing-related token activity
+
+New threats are added in real time.
+
+---
+
+## 🤝 Collaboration
+
+If you are a wallet provider, explorer, or security team,
+you can use this dataset or contact us for integration.
+
+Arta Security Lab# 🛡 Arta Blockchain Security Lab
 
 ![Security](https://img.shields.io/badge/Threat%20Intelligence-Active-red)
 ![Security Research](https://img.shields.io/badge/Crypto-Security%20Research-blue)
@@ -113,3 +158,24 @@ Last security research update: Wed Mar 18 06:59:25 UTC 2026
 Last security research update: Thu Mar 19 06:55:29 UTC 2026
 
 Last security research update: Fri Mar 20 06:52:17 UTC 2026
+---
+
+## 🛡️ Security Intelligence
+
+Our system continuously tracks:
+
+- Fake USDT / USDC / EURC tokens  
+- Dust attack patterns  
+- Token impersonation campaigns  
+- Phishing-related token activity  
+
+New threats are added in real time.
+
+---
+
+## 🤝 Collaboration
+
+If you are a wallet provider, explorer, or security team,  
+you can use this dataset or contact us for integration.
+
+Arta Security Lab
