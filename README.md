@@ -1,4 +1,14 @@
-# 🛡 Arta Security Lab
+## 🔌 Integration (Security API)
+
+Use our live scam token database:
+
+https://raw.githubusercontent.com/artablok/crypto-security-research/main/database/solana.json
+
+Use cases:
+- Wallet protection
+- Scam detection
+- Token risk scoring
+- Explorer warnings# 🛡 Arta Security Lab
 
 ![Security](https://img.shields.io/badge/Threat%20Intelligence-Active-red)
 ![Crypto](https://img.shields.io/badge/Crypto-Security-blue)
