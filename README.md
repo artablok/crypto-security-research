@@ -68,3 +68,8 @@ Last security research update: Sun Mar 22 12:46:50 UTC 2026
 Last security research update: Sun Mar 22 18:34:51 UTC 2026
 
 Last security research update: Mon Mar 23 02:04:18 UTC 2026
+## 🚨 TRON Scam Tokens
+
+- AEDT (Arab Emirates Dirham Token)  
+  Contract: TV714TT9aQftbkYBjWiVExCxNZm9nPJX6K  
+  Type: Fake Stablecoin
