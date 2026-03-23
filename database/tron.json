@@ -1,0 +1,21 @@
+[
+  {
+    "chain": "tron",
+    "name": "Arab Emirates Dirham Token",
+    "symbol": "AEDT",
+    "contract": "TV714TT9aQftbkYBjWiVExCxNZm9nPJX6K",
+    "decimals": 6,
+    "type": "fake_stablecoin",
+    "risk": "high",
+    "flags": [
+      "no_liquidity",
+      "no_trading_volume",
+      "no_markets",
+      "impersonation_currency",
+      "fake_backing_claim"
+    ],
+    "description": "Fake token impersonating UAE Dirham. No liquidity and no trading activity.",
+    "recommendation": "Do not interact.",
+    "date_added": "2026-03-23"
+  }
+]
