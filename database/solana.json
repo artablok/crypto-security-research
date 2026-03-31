@@ -153,35 +153,45 @@
         "description": "Automatically detected scam token example."
       },
       {
-  "name": "Fake USDT",
-  "symbol": "USDT",
-  "address": "EAzDbaDgNArF9HhnwGHxw44XXB8bgMvNrASg5NMsNnYb",
-  "type": "Impersonation",
-  "status": "Active",
-  "first_detected": "2026-03-30",
-  "reported_by": "arta_security_lab",
-  "description": "Fake USDT token on Solana used in scam airdrops."
-},
-{
-  "name": "Fake wUSDT",
-  "symbol": "WUSDT",
-  "address": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
-  "type": "Impersonation",
-  "status": "Active",
-  "first_detected": "2026-03-30",
-  "reported_by": "arta_security_lab",
-  "description": "Fake wrapped USDT token on Solana."
-},
-{
-  "name": "Fake USDTetv",
-  "symbol": "USDTETV",
-  "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
-  "type": "Impersonation",
-  "status": "Active",
-  "first_detected": "2026-03-30",
-  "reported_by": "arta_security_lab",
-  "description": "Fake USDT variant used in scam transfers."
-}
+        "name": "Fake USDT",
+        "symbol": "USDT",
+        "address": "EAzDbaDgNArF9HhnwGHxw44XXB8bgMvNrASg5NMsNnYb",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-30",
+        "reported_by": "arta_security_lab",
+        "description": "Fake USDT token on Solana used in scam airdrops."
+      },
+      {
+        "name": "Fake wUSDT",
+        "symbol": "WUSDT",
+        "address": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-30",
+        "reported_by": "arta_security_lab",
+        "description": "Fake wrapped USDT token on Solana."
+      },
+      {
+        "name": "Fake USDTetv",
+        "symbol": "USDTETV",
+        "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-30",
+        "reported_by": "arta_security_lab",
+        "description": "Fake USDT variant used in scam transfers."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-03-31",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
+      }
     ]
   }
 ]
