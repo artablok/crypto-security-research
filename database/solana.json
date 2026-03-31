@@ -191,7 +191,35 @@
         "first_detected": "2026-03-31",
         "reported_by": "crypto-security-research",
         "description": "Automatically detected scam token example."
-      }
+      },
+      {
+  "name": "Fake USDT",
+  "symbol": "USDT",
+  "address": "3ijco7rKKeuyDbLTMYBFKvJm15811iLi4diUYjbXJMAt",
+  "type": "Impersonation",
+  "status": "Active",
+  "first_detected": "2026-03-31",
+  "reported_by": "arta_security_lab",
+  "description": "Fake USDT token detected in scam activity (Solana)."
+},
+{
+  "name": "Fake USDT",
+  "symbol": "USDT",
+  "address": "Vr1UbnDPTGT4AxmW6tVRQwSnMwzT9vo82pjmcCnuqtz",
+  "type": "Impersonation",
+  "status": "Active",
+  "first_detected": "2026-03-31",
+  "reported_by": "arta_security_lab",
+  "description": "Fake USDT token detected in scam activity (Solana)."
+},
+{
+  "name": "Fake USDT",
+  "symbol": "USDT",
+  "address": "7koyaGqHPpdEAxWQdFH9GHVW8jC4zwXgA3rFcrM1wkBK",
+  "type": "Impersonation",
+  "status": "Active",
+  "first_detected": "2026-03-31",
+  "reported_by": "arta_security_lab",
+  "description": "Fake USDT token detected in scam activity (Solana)."
+}
     ]
-  }
-]
