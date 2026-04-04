@@ -221,5 +221,18 @@
   "first_detected": "2026-03-31",
   "reported_by": "arta_security_lab",
   "description": "Fake USDT token detected in scam activity (Solana)."
+},
+{
+  "symbol": "USDT",
+  "name": "Fake USDT Token",
+  "address": "4zpV5uq3Uc5GpiuujFX5EJD3CJhiELUSawMTW6Ha9age",
+  "network": "Solana",
+  "decimals": 6,
+  "status": "scam",
+  "source": "Arta Security Lab",
+  "type": "impersonation",
+  "note": "Fake USDT token detected (impersonating Tether USD)",
+  "date_added": "2026-04-04"
 }
+ 
     ]
