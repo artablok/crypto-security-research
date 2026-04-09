@@ -233,5 +233,43 @@
   "type": "impersonation",
   "note": "Fake USDT token detected (impersonating Tether USD)",
   "date_added": "2026-04-04"
-}
+},
+ ,
+{
+  "address": "3ijco7rKKeuyDbLTMYBFKvJm15811iLi4diUYjbXJMAt",
+  "symbol": "USDC",
+  "status": "scam",
+  "network": "solana",
+  "note": "Fake USDC.A impersonation"
+},
+{
+  "address": "Vr1UbnDPTGT4AxmW6tVRQwSnMwzT9vo82pjmcCnuqtz",
+  "symbol": "USDT",
+  "status": "scam",
+  "network": "solana"
+},
+{
+  "address": "7koyaGqHPpdEAxWQdFH9GHVW8jC4zwXgA3rFcrM1wkBK",
+  "symbol": "EURC",
+  "status": "scam",
+  "network": "solana"
+},
+{
+  "address": "4zpV5uq3Uc5GpiuujFX5EJD3CJhiELUSawMTW6Ha9age",
+  "symbol": "USDT",
+  "status": "scam",
+  "network": "solana"
+},
+{
+  "address": "GLTjENvmRTWspotyXFFDDjkiESFTgQQCaNxH7D3gGnyb",
+  "symbol": "USDT",
+  "status": "scam",
+  "network": "solana"
+},
+{
+  "address": "7HahXZBKzQZ7VBk1BTwXVeJu3Y1AQagYa2gKb9bB8Buv",
+  "symbol": "USDC",
+  "status": "scam",
+  "network": "solana"
+}     
  ]
