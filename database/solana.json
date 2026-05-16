@@ -286,7 +286,6 @@
   ]
   "description": "This token is a fake USDT impersonation used in scam airdrops."
 }, 
-   ,
     {
       "name": "Fake USDT",
       "type": "SPL",
@@ -298,8 +297,8 @@
         {
           "name": "explorer",
           "url": "https://solscan.io/token/Es9esoPcdPR25bPUotpCfrB7q7r2FHMUS18jEUuNTNyj"
-        }
-      ],
+        },
+      ]
       "description": "Token impersonates Tether USDT. Uses homoglyph characters in on-chain metadata. Solscan reputation: Scam. Supply: 499B. Mint Authority: Disabled."
     },
     {
