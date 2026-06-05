@@ -1,4 +1,50 @@
 # 🛡️ Arta Security Lab
+## 🤖 Arta Security Bot
+
+Arta Security Bot is a Telegram-based blockchain security scanner developed by Arta Blockchain.
+
+Bot: [@ArtaSecurityScannerBot](https://t.me/ArtaSecurityScannerBot)
+
+The bot allows users to scan token contracts and receive an instant security report directly in Telegram.
+
+### Current Features
+
+✅ Smart contract analysis  
+✅ Risk level detection  
+✅ Risk score system  
+✅ Ownership verification  
+✅ Honeypot / contract warning checks  
+✅ Token name and supply detection  
+✅ Basic scam token monitoring  
+
+### Development Status
+
+Arta Security Bot is currently active and under continuous development.
+
+Upcoming improvements include:
+
+🔹 Advanced wallet risk analysis  
+🔹 Expanded scam token database  
+🔹 Multi-chain threat detection  
+🔹 Holder concentration monitoring  
+🔹 Faster security reporting  
+🔹 AI-assisted risk explanations  
+
+### Supported Networks
+
+• Ethereum  
+• BNB Chain  
+• Arbitrum  
+• Base  
+• Solana  
+
+### How to Use
+
+1. Open [@ArtaSecurityScannerBot](https://t.me/ArtaSecurityScannerBot)  
+2. Send a token contract address  
+3. Receive an instant security scan report  
+
+Arta Security Bot is part of the broader Arta Security Lab ecosystem focused on scam detection, crypto threat intelligence, and blockchain user protection.
 
 Independent blockchain threat intelligence provider
 
@@ -34,6 +80,17 @@ Use cases:
 - Scam detection
 - Token risk scoring
 - Explorer warnings
+
+- ## 🛡 Arta Security Ecosystem
+
+| Component | Status |
+|----------|--------|
+| Security API | 🟢 Active |
+| Threat Database | 🟢 Active |
+| Telegram Security Bot | 🟢 Active |
+| Scam Token Feed | 🟢 Active |
+| Wallet Risk Scanner | 🟡 In Development |
+| AI Security Engine | 🟡 In Development |
 
 ### API Response Example
 
