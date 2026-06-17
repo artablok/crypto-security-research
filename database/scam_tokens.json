@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-23",
+  "last_update": "2026-06-18",
   "source": "Arta Security Lab",
   "type": "scam_token_dataset",
   "tokens": [
@@ -15,7 +15,11 @@
     {"network":"ethereum","address":"0x267B66243463427C101caBDA4adAfe64c380CA89","symbol":"USD.C","risk":"high"},
     {"network":"ethereum","address":"0x6F8aAD52c0127aE0B676BDDEe340A24Afec5fC8E","symbol":"USDT.T","risk":"high"},
 
+    {"network":"ethereum","address":"0x746305b3ABB2ad4a3f759be20407205a9b3E7B6b","symbol":"USDT.C","risk":"high"},
+
     {"network":"bsc","address":"0x332C0F58763E3990204B780d33237DF4524d6d09","symbol":"USDT.T","risk":"high"},
+    {"network":"bsc","address":"0x746305b3ABB2ad4a3f759be20407205a9b3E7B6b","symbol":"USDT.C","risk":"high"},
+
     {"network":"arbitrum","address":"0x6d011934C23B44559F237bF4C28A8919906C5955","symbol":"USD.T","risk":"high"},
 
     {"network":"tron","address":"TKBuv1du4NnrevTCvpvpr7oAaiVcnRntNE","symbol":"USD.T","risk":"high"},
