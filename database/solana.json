@@ -282,8 +282,8 @@
     {
       "name": "explorer",
       "url": "https://solscan.io/token/4zpV5uq3Uc5GpiuujFX5EJD3CJhiELUSawMTW6Ha9age"
-    },
-  ]
+    }
+  ],
   "description": "This token is a fake USDT impersonation used in scam airdrops."
 }, 
     {
@@ -312,8 +312,8 @@
         {
           "name": "explorer",
           "url": "https://solscan.io/token/Es9S2hakrsvruRNdMEuChxKeMd7b2NtHAwFB4WKG8FFQ"
-        },
-      ]
+        }
+      ],
       "description": "Token impersonates Tether USDT. Uses homoglyph characters in on-chain metadata. Supply: 49B. Mint Authority: Disabled. Research token created by Arta Security Lab for analysis."
     },
     {
@@ -327,8 +327,8 @@
         {
           "name": "explorer",
           "url": "https://solscan.io/token/Cg7SjRgpqH6fydJXsuTMTHVtwJnzALXo1ioJRmF98FkF"
-        },
-      ]
+        }
+      ],
       "description": "Token impersonates Tether USDT. Solscan reputation: Scam. Uses fake USDT logo from IPFS. Active dust attack distribution."
     }   
  ] 
