@@ -330,6 +330,16 @@
           }
         ],
         "description": "Token impersonates Tether USDT. Solscan reputation: Scam. Uses fake USDT logo from IPFS. Active dust attack distribution."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-07-12",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
       }
     ]
   }
