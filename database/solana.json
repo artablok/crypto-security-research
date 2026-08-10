@@ -620,6 +620,16 @@
         "first_detected": "2026-08-09",
         "reported_by": "crypto-security-research",
         "description": "Automatically detected scam token example."
+      },
+      {
+        "name": "Example Scam Token",
+        "symbol": "SCAM",
+        "address": "ExampleAddress123",
+        "type": "Impersonation",
+        "status": "Active",
+        "first_detected": "2026-08-10",
+        "reported_by": "crypto-security-research",
+        "description": "Automatically detected scam token example."
       }
     ]
   }
