@@ -1648,3 +1648,5 @@ Last security research update: Thu Oct  1 04:06:34 UTC 2026
 Last security research update: Thu Oct  1 12:25:02 UTC 2026
 
 Last security research update: Thu Oct  1 22:19:40 UTC 2026
+
+Last security research update: Fri Oct  2 04:01:01 UTC 2026
