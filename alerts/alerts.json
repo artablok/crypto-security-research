@@ -9128,5 +9128,15 @@
     "address": "AUTO_TEST_TOKEN",
     "date": "2026-11-14",
     "status": "active"
+  },
+  {
+    "id": "ARTA-20261115044610",
+    "title": "Suspicious Token Detected",
+    "description": "New suspicious token detected: AUTO_TEST_TOKEN",
+    "risk_level": "MEDIUM",
+    "chain": "solana",
+    "address": "AUTO_TEST_TOKEN",
+    "date": "2026-11-15",
+    "status": "active"
   }
 ]
