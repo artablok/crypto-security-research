@@ -21,11 +21,6 @@ jobs:
       - name: Run auto alerts
         run: python scripts/auto_alert.py
 
-      - name: Update README timestamp
-        run: |
-          echo "" >> README.md
-          echo "Last security research update: $(date)" >> README.md
-
       - name: Commit changes
         run: |
           git config --global user.name "security-bot"
